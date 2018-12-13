@@ -27,14 +27,18 @@ nav ul li a {
   line-height: var(--nav-height);
   color: white;
   text-decoration: none;
+  text-shadow: 0 2px 3px #0000007d;
+  font-size: 1.2em;
 }
 
 header {
   width: var(--max-width);
   margin: 0 auto;
+  padding-bottom: 30px;
   text-align: center;
   font-size: 2em;
   color: white;
+  text-shadow: 0 2px 3px #0000007d;
 }
 
 section#content {
@@ -44,6 +48,7 @@ section#content {
   background-color: white;
   padding: 0 20px;
   border-radius: 5px;
+  box-shadow: 0 30px 60px #0000007d;
 }
 
 section#content ul {
