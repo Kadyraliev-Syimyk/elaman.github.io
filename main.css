@@ -6,8 +6,8 @@
 body {
   margin: 0;
   padding: 0 15px 80px;
-  background-image: radial-gradient(circle farthest-corner at -25% -25%, #4affff, #7575ff);
-  background-size: 100% 2000px;
+  background-image: radial-gradient(circle farthest-corner at -10% -5%, #4affff 0%, #6b6bd3 30%, #00b8ff 80%, #0003ff 100%);
+  background-size: 100% 4000px;
 
   font-family: 'Open Sans', sans-serif;
 }
