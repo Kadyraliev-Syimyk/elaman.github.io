@@ -9,23 +9,19 @@ body {
 
 nav ul {
   width: var(--max-width);
-
   margin: 0 auto;
   padding: 0;
   list-style-type: none;
-
   display: flex;
+  justify-content: center;
 }
 
 nav ul li {
-  flex: 1;
   text-align: center;
 }
 
 nav ul li a {
-  display: block;
-  width: 100%;
-  height: var(--nav-height);
+  padding: 0 15px;
   line-height: var(--nav-height);
 }
 
