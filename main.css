@@ -28,6 +28,8 @@ nav ul li a {
 header {
   width: var(--max-width);
   margin: 0 auto;
+  text-align: center;
+  font-size: 2em;
 }
 section#content {
   width: var(--max-width);
